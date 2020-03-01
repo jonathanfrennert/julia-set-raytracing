@@ -2,7 +2,10 @@
 
 ### About 
 ##### Multi-core CPU raytracing for quaternion Julia sets as images and animations.
-
+<kbd>
+  <img src="https://github.com/J0HNN7G/Haskell-Projects/blob/master/JuliaSetQ/Imaging/images/Chromaticity.jpg" width="400" height="300"> 
+  <img src="https://github.com/J0HNN7G/Haskell-Projects/blob/master/JuliaSetQ/Animation/videos/Short.gif" width="400"/>
+</kbd>
 ### References
 ##### 1. Crane, Keenan. “Ray Tracing Quaternion Julia Sets on the GPU.” Keenan Crane, 7 Nov. 2005, www.cs.cmu.edu/~kmcrane/Projects/QuaternionJulia/.
 
