@@ -1,6 +1,6 @@
 # Animation
 
-Create videos of quaternion Julia sets in MP4 files. 
+Create MP4 videos of ray-traced quaternion Julia sets. 
 
 ## Dependencies (excluding GHC & Cabal) 
 
