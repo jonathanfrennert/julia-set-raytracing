@@ -1,7 +1,6 @@
 # JuliaSetQ
 
-### About 
-##### Multi-core CPU raytracing for quaternion Julia sets as images and animations.
+Produce high definition images and videos of quaternion Julia sets using functional programming.
 
 <kbd>
   <img src="https://github.com/J0HNN7G/JuliaSetQ/blob/master/Imaging/images/Chromaticity.jpg" width="400" height="300"> 
