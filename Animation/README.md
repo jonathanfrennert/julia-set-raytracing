@@ -28,5 +28,6 @@ When using the executable:
 2. Compile the main module by entering into the command prompt `ghc --make Main -o AnQJS -outputdir bin -threaded -O2 -with-rtsopts="-qa -A128m -n2m"` 
 3. To create an an MP4 video write ` AnQJS.exe <name> <default/custom> +RTS -N<cores> `
 
-##### If you type in default for the second argument, ` <default/custom> `, default settings will be used to write the MP4 file at ` videos\<name>.mp4 `. If ` custom ` is the second argument, you will type in certain settings given a series of prompts. More advanced settings can be found within the ` settings.hs ` file. The ` <cores> ` is the number of CPU cores you want to use, e.g. ` -N6 ` for using six CPU cores. 
-##### The frames folder is were all frames are placed for FFmpeg to put together as an MP4 video. 
+If you type in default for the second argument, ` <default/custom> `, default settings will be used to write the MP4 file at ` videos\<name>.mp4 `. If ` custom ` is the second argument, you will type in certain settings given a series of prompts. More advanced settings can be found within the ` settings.hs ` file. The ` <cores> ` is the number of CPU cores you want to use, e.g. ` -N6 ` for using six CPU cores. 
+
+The frames folder is were all frames are placed for FFmpeg to put together as an MP4 video. 
