@@ -21,7 +21,7 @@ For each Haskell dependency:
 For FFmpeg
 Download installer from https://www.ffmpeg.org/download.html.
 
-#### 2. How to use 
+## How to use 
 
 When using the executable:
 1. Open up the command prompt and enter the directory containing the haskell modules.
