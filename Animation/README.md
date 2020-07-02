@@ -15,8 +15,8 @@ FFmpeg is a free and open-source project consisting of a vast software suite of 
 
 #### Installation
 For each Haskell dependency: 
-1. ##### Open Command Prompt 
-2. ##### Enter ` cabal install <dependency name> `, e.g. ` cabal install repa `
+1. Open Command Prompt 
+2. Enter ` cabal install <dependency name> `, e.g. ` cabal install repa `
 
 For FFmpeg
 Download installer from https://www.ffmpeg.org/download.html.
