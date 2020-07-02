@@ -1,5 +1,5 @@
 # Imaging
-Create images of ray-traced quaternion Julia set Tiff files. 
+Create Tiff images of ray-traced quaternion Julia sets. 
 
 ## Dependencies (excluding GHC & Cabal) 
 - ### REPA 
