@@ -2,7 +2,7 @@
 
 #### 1. About 
 
-##### multi-core CPU raytracing for quaternion Julia set MP4 files. 
+Create videos of quaternion Julia sets in MP4 files. 
 
 #### 2. Dependencies (excluding GHC & Cabal) 
 
