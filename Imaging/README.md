@@ -8,12 +8,12 @@ Repa provides high performance, regular, multi-dimensional, shape polymorphic pa
 - ### JuicyPixels
 This library can load and store images in PNG,Bitmap, Jpeg, Radiance, Tiff and Gif images (https://hackage.haskell.org/package/JuicyPixels).
 
-### Installation (Windows)
+#### Installation (Windows)
 For each dependency: 
 1. Open Command Prompt 
 2. Enter ` cabal install <dependency name> `, e.g. ` cabal install repa `
 
-### How to use 
+## How to use 
 
 When using the executable:
 1. Open up the command prompt and enter the directory containing the haskell modules.
