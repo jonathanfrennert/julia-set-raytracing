@@ -2,7 +2,7 @@
 
 #### 1. About 
 
-##### multi-core CPU raytracing for quaternion Julia set Tiff files. 
+##### multi-core CPU raytracing for quaternion Julia set MP4 files. 
 
 #### 2. Dependencies (excluding GHC & Cabal) 
 
